@@ -2,8 +2,10 @@
 /*
  *
  *main - Entry point
- *Description: print out the statement in line ten
+ *
+ *Description: output statement
  *Return: Always 0 (Success)
+ *
  */
 int main(void)
 {
