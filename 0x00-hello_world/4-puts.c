@@ -1,9 +1,6 @@
 #include <stdio.h>
-/*
- *
- *main - Entry point
- *
- *Description: output statement
+/**
+ *main - main block
  *Return: Always 0 (Success)
  *
  */
