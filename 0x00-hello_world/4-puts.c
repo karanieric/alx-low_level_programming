@@ -2,6 +2,7 @@
 /*
  *
  *main - Entry point
+ *Description: print out the statement in line ten
  *Return: Always 0 (Success)
  */
 int main(void)
