@@ -2,19 +2,20 @@
 /**
  * main - Entry point
  *
- * Return:0
+ * Return: Always 0
  **/
+
 int main(void)
+
 {
-
-	char c[9] = "_putchar";
-	int i = 0;
-
-	while (i < 8)
-	{
-		_putchar(c[i]);
-		i++;
-	}
+	_putchar('P');
+	_putchar('U');
+	_putchar('T');
+	_putchar('C');
+	_putchar('H');
+	_putchar('A');
+	_putchar('R');
 	_putchar('\n');
-	return (0);
+												return (0);
+
 }
